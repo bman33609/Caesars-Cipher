@@ -8,14 +8,14 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b> Javascript</b> 
+- <b>Javascript</b> 
 
 <h2>Environments Used </h2>
 
-- <b> Visual Studio Code</b> 
+- <b>Visual Studio Code</b> 
 
 <h2>Objectives:</h2>
 
 - <b>Write a Caesars Cipher program with Javascript.</b> 
 - <b>The program will shift each character by 13 places.</b>
-- <b>Uses a function that takes a ROT13 encoded string and returns a decoded string.</b>
+- <b>Have the program use a function that takes a ROT13 encoded string and returns a decoded string.</b>
